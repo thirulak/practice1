@@ -12,7 +12,7 @@ commands:
  
  * git commit -m "first commit"
  
- * git remote add origin "gitrepolink"
+ * git remote add origin "git_repo_link"
  
  * git status
  
@@ -25,6 +25,6 @@ commands:
  * https://wiki.gentoo.org/wiki/Nano/Basics_Guide 
  * git commit -m "second commit"
  * git status
- * git remote add origin "gitrepolink"
+ * git remote add origin "git_repo_link"
  * git push origin master
 
