@@ -27,4 +27,4 @@ commands:
  * git status
  * git remote add origin "git_repo_link"
  * git push origin master
-
+ * To resolve the unrelated histories encountered during git pull use "git pull origin master --allow-unrelated-histories"
