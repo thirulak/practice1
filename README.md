@@ -1,4 +1,4 @@
-github practice session
+# github practice session
 commands:
  * mkdir ra(directoryname)
  
@@ -29,3 +29,11 @@ commands:
  * git push origin master
  * To resolve the unrelated histories encountered during git pull use "git pull origin master --allow-unrelated-histories" 
  * https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase 
+ ## How to add README.md to an empty repository : 
+ * echo "# repo_name" >> README.md
+ * git init
+ * git add README.md
+ * git commit -m "first commit"
+ * git remote add origin repo_link.git
+ * git push -u origin master
+       
