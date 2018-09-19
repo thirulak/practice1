@@ -21,7 +21,7 @@ commands:
  * touch README.md
  * nano README.md
  * A terminal window opens where we can type our text to be displayed in the README page 
- * If you want to save the changes you've made, press Ctrl + O. To exit nano, type Ctrl + X. If you ask nano to exit from a modified file,    it will ask you if you want to save it. Just press N in case you don't, or Y in case you do. It will then ask you for a filename. Just      type it in and press Enter.
+ * If you want to save the changes you've made, press Ctrl + O. To exit nano, type Ctrl + X. If you ask nano to exit from a modified   file, it will ask you if you want to save it. Just press N in case you don't, or Y in case you do. It will then ask you for a filename. Just type it in and press Enter.
  * https://wiki.gentoo.org/wiki/Nano/Basics_Guide 
  * git commit -m "second commit"
  * git status
@@ -35,5 +35,6 @@ commands:
  * git add README.md
  * git commit -m "first commit"
  * git remote add origin repo_link.git
+ _the -u flag adds a tracking reference to the upstream server you are pushing to_
  * git push -u origin master
        
