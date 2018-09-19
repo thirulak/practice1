@@ -35,6 +35,6 @@ commands:
  * git add README.md
  * git commit -m "first commit"
  * git remote add origin repo_link.git
- _the -u flag adds a tracking reference to the upstream server you are pushing to_
  * git push -u origin master
-       
+ * _the -u flag adds a tracking reference to the upstream server you are pushing to_
+ 
