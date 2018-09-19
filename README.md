@@ -37,4 +37,5 @@ commands:
  * git remote add origin repo_link.git
  * git push -u origin master
  * _the -u flag adds a tracking reference to the upstream server you are pushing to_
+ * https://stackoverflow.com/questions/5697750/what-exactly-does-the-u-do-git-push-u-origin-master-vs-git-push-origin-ma
  
