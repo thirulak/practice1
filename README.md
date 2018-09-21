@@ -41,3 +41,8 @@ commands:
  ### How to add Checkbox in README.md in Github : 
  https://stackoverflow.com/questions/47344571/how-to-draw-checkbox-or-tick-mark-in-github-markdown-table
  
+ #### How to add images directly in README files :
+* You can create a New Issue
+* upload(drag & drop) images to it
+* Copy the images URL and paste it into your README.md file.
+- **Ref** : https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
