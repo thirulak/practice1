@@ -46,5 +46,5 @@ commands:
 * upload(drag & drop) images to it
 * Copy the images URL and paste it into your README.md file.
 - **Ref** : https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
-**Git ignore** : 
+- **Git ignore** : 
 https://www.youtube.com/watch?v=f3yQu7YepuE
