@@ -49,4 +49,4 @@ commands:
 - **Git ignore** : 
 - https://www.youtube.com/watch?v=f3yQu7YepuE
 - https://git-scm.com/docs/gitignore
-- .gitignore is created for ignoring file, that’s mean , which you don’t want to track or don’t want to upload in github.
+- **Use of Gitignore**: .gitignore is created for ignoring file, it means , which you don’t want to track or don’t want to upload in github.
