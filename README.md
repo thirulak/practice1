@@ -52,4 +52,4 @@ commands:
 - **Use of Gitignore**: .gitignore is created for ignoring file, it means , which you don’t want to track or don’t want to upload in github.
 
 - When creating a new repository and in case of uploading folders from local machine dont check the _Initialize with a Readme file_ it may lead to merging conflicts or unrelated history errors. 
-- For more info : https://stackoverflow.com/questions/38255655/trying-to-pull-files-from-my-github-repository-refusing-to-merge-unrelated-his/40959920
+   - For more info : https://stackoverflow.com/questions/38255655/trying-to-pull-files-from-my-github-repository-refusing-to-merge-unrelated-his/40959920
