@@ -59,3 +59,4 @@ commands:
 2. git status (To check if the changes are done)
 3. git commit
 4. git push origin master
+   - https://superuser.com/questions/918317/how-to-delete-remove-files-from-a-pushed-commit
