@@ -60,3 +60,6 @@ commands:
 3. git commit
 4. git push origin master
    - https://superuser.com/questions/918317/how-to-delete-remove-files-from-a-pushed-commit
+   
+- What happens when you are working in a linux platform and your friend is working in Windows platform for a collab poject, how to avoid the line ending errors?
+   - This is how did manages this https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
