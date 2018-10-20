@@ -63,3 +63,7 @@ commands:
    
 - What happens when you are working in a linux platform and your friend is working in Windows platform for a collab poject, how to avoid the line ending errors?
    - This is how did manages this https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important
+   
+- **Pull request :** 
+   - When pull request made by you is merged by the repo owner then the pull request is accepted
+   - If the pull request is closed then it is not accepted by the repo owner
