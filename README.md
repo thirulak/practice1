@@ -49,7 +49,8 @@ commands:
 - **Git ignore** : 
 - https://www.youtube.com/watch?v=f3yQu7YepuE
 - https://git-scm.com/docs/gitignore
-- **Use of Gitignore**: .gitignore is created for ignoring file, it means , which you don’t want to track or don’t want to upload in github.
+- **Use of Gitignore**: .gitignore is created for ignoring file, it means , which you don’t want to track or don’t want to upload in github. 
+   - https://stackoverflow.com/questions/5765645/should-you-commit-gitignore-into-the-git-repos
 
 - When creating a new repository and in case of uploading folders from local machine dont check the _Initialize with a Readme file_ it may lead to merging conflicts or unrelated history errors. 
    - For more info : https://stackoverflow.com/questions/38255655/trying-to-pull-files-from-my-github-repository-refusing-to-merge-unrelated-his/40959920
