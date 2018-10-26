@@ -1,4 +1,6 @@
 # github practice session
+- https://linuxacademy.com/blog/linux/git-terms-explained/
+
 commands:
  * mkdir ra(directoryname)
  
