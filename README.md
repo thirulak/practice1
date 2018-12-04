@@ -57,7 +57,7 @@
 - When creating a new repository and in case of uploading folders from local machine dont check the _Initialize with a Readme file_ it may lead to merging conflicts or unrelated history errors. 
    - For more info : https://stackoverflow.com/questions/38255655/trying-to-pull-files-from-my-github-repository-refusing-to-merge-unrelated-his/40959920
 
-- **How to delete a repo from Github :**
+- **How to Delete a repo from Github :**
 1. git rm -r directoryname
 2. git status (To check if the changes are done)
 3. git commit
