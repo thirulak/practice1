@@ -49,8 +49,8 @@
 * Copy the images URL and paste it into your README.md file.
 - **Ref** : https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
 - **Git ignore** : 
-- https://www.youtube.com/watch?v=f3yQu7YepuE
-- https://git-scm.com/docs/gitignore
+  - https://www.youtube.com/watch?v=f3yQu7YepuE
+    - https://git-scm.com/docs/gitignore
 - **Use of Gitignore**: .gitignore is created for ignoring file, it means , which you don’t want to track or don’t want to upload in github. 
    - https://stackoverflow.com/questions/5765645/should-you-commit-gitignore-into-the-git-repos
 
