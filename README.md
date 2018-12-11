@@ -1,7 +1,7 @@
 # github practice session
 - https://linuxacademy.com/blog/linux/git-terms-explained/
 
-*commands:*
+*commands:* :rocket:
  * mkdir ra(directoryname)
  
  * cd ra
