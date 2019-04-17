@@ -70,3 +70,10 @@
 - **Pull request :** 
    - When pull request made by you is merged by the repo owner then the pull request is accepted
    - If the pull request is closed then it is not accepted by the repo owner
+   
+ **How to revert the changes done in a remote repo :**
+   - First clone the repo into your local drive
+   - Then enter into the repo using cd <repo-name>
+   - Then enter git revert <Commit-SHA> displayed in the commit history of the remote repo
+   - Give git commit
+   - Proceed by git push origin master
