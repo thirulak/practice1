@@ -75,6 +75,6 @@
  **How to revert the changes done in a remote repo :**
    - First clone the repo into your local drive
    - Then enter into the repo using cd <repo-name>
-   - Then enter git revert <Commit-SHA> displayed in the commit history of the remote repo
+   - Then enter 'git revert (Commit-SHA) ' displayed in the commit history of the remote repo
    - Give git commit
    - Proceed by git push origin master
