@@ -1,4 +1,5 @@
-# github practice session
+# github practice session 
+  (Alert : All this commands are based on Git bash working module)
 - https://linuxacademy.com/blog/linux/git-terms-explained/
 
 *commands:* :rocket:
